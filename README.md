@@ -1,39 +1,42 @@
-## 🎉 Birthday Greeting Webpage 
+Happy Birthday
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+A Happy Birthday animation design in CSS3, HTML5.
 
-## 🚀 How to Use
+URL: http://ayusharma.github.io/birthday/
 
-1.  **Clone Repository**
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-    ```bash
-    # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+# Setup
 
-    # Go into the repository
-    $ cd happybirthday
+## If you have python installed:
+```
+cd Birthday
+```
 
-    # Open it with your text editor
-    $ code .
-    ```
+&& 
 
-2. **Open with Live Server**
+```
+python -m SimpleHTTPServer --port  8081
+```
 
-    Your site is now running!
+visit http://localhost:8081 in your browser.
 
-3. **Deployment**
+## If you have nodejs installed
+```
+npm install
+```
+&&
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+```
+npm run server-node
+```
+visit http://localhost:8081 in your browser.
 
-## 📝 Contributing
 
-If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
+## For further queries do not hesitate to contact me.
 
-## 🤝 License
+Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
 
-### [MIT](LICENSE)
+contact details: ayush.aceit@gmail.com
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+IRC: ayushpix
